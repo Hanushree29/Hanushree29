@@ -1,0 +1,28 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allow manual run
+
+jobs:
+  generate:
+    name: Generate Snake Animation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Generate the snake game
+        uses: Platane/snk@v2
+        with:
+          github_user_name:  Hanushree29   #  Replace with your GitHub username
+          outputs: dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push the snake animation to the output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist # This will push the 'dist' folder to the branch
+          target_branch: output # Ensure the target branch is output
