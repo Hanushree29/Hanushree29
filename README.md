@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hi there, I'm HANUSHREE M! 👋" src="./assets/profile-banner.png" />
-</p>
+  <img width="80%" alt="Hi there, I'm HANUSHREE M! 👋" </p>
 
 <p align="center">
   <img src="./assets/hi.gif" width="400px" height="250px"/>
