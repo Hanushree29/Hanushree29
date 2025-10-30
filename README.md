@@ -13,7 +13,7 @@
 - 💻 Skilled in **MERN Stack, PyTorch, OpenCV**, and building scalable applications.  
 - 🌐 Published **portfolio projects** integrating **e-commerce, CRM, social media, geo-fencing, and data visualization**.  
 - ✨ Passionate about **real-world problem solving, AI-powered applications, and innovation**.  
-- 🌱 Currently building **Smart Surveillance & Travel Guide AI applications**.  
+- 🌱 Currently building **Shree temple agent**.  
 
 ---
 
