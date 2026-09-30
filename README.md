@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="HANUSHREE M — AI and Full-Stack Engineer">
+    <img src="./git.png" alt="HANUSHREE M — AI and Full-Stack Engineer">
   </picture>
 </p>
 
