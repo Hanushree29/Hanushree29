@@ -1,9 +1,9 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./git.png" alt="HANUSHREE M — AI and Full-Stack Engineer">
-  </picture>
+  <img
+    src="./assets/git.png"
+    alt="HANUSHREE M — AI and Full-Stack Engineer"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Hi, I'm Hanushree M 👋</h1>
@@ -16,7 +16,6 @@
   <a href="https://github.com/Hanushree29">GitHub</a> ·
   <a href="https://www.linkedin.com/in/hanushree-m/">LinkedIn</a>
 </p>
-
 ---
 
 ## About
