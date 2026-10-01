@@ -1,82 +1,102 @@
-<p align="center">
-  <img
-    src="./assets/git.png"
-    alt="HANUSHREE M — AI and Full-Stack Engineer"
-    width="100%"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Hanushree M — AI &amp; Full-Stack Engineer profile banner" width="100%">
+</picture>
 
-<h1 align="center">Hi, I'm Hanushree M 👋</h1>
+<br/>
 
-<p align="center">
-  <strong>AI & Full-Stack Engineer</strong> · Computer Vision · Generative AI · Software Engineering
-</p>
+## Hello! I'm Hanushree M 👋
 
-<p align="center">
-  <a href="https://github.com/Hanushree29">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/hanushree-m/">LinkedIn</a>
-</p>
+Passionate about building AI-powered solutions and impactful web applications. I love turning ideas into real-world products through technology, research, and creativity.
+
+- 🎓 **B.E. Computer Science and Engineering** — Nandha Engineering College · Batch 2026
+- 📍 Tamil Nadu, India
+- 💼 Full Stack Engineer @ Nandha InfoTech · AI Intern @ Infosys Springboard
+- 🔭 Currently building: intelligent agents, computer vision systems, and generative AI projects
+- 🌱 Learning: advanced LLM fine-tuning, RAG pipelines, and distributed systems
+
 ---
 
-## About
-
-I build software at the intersection of **AI, computer vision, generative models, and full-stack development**. My work includes multimodal video intelligence, generative AI for traditional visual patterns, and practical AI-driven applications.
-
-## Focus
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision & Video Analytics
-- ✨ Generative AI & Deep Learning
-- 🧩 Full-Stack Application Development
-- 🧠 Applied problem solving and experimentation
-
-## Featured Projects
-
-### SRI — Sentinel Reconnaissance Intelligence
-A distributed multimodal AI-powered surveillance and reconnaissance system for heterogeneous real-time video sources, using **YOLOv8**, **ArcFace**, and **LSTM-based temporal modeling**.
-
-### Kolam Generation
-A generative AI project that recreates and generates traditional Kolam patterns using deep learning, including **GANs / Autoencoders**, image processing, coordinate transformation, and rotational symmetry.
-
-### SHREE
-An AI-driven intelligent agent focused on **crowd safety, mobility, and inclusive assistance in real time**.
-
-### Mathchatbot
-A **Generative AI** project for mathematics assistance.
-
-## Engineering Stack
-
-**Languages & Core**
-`Python` · `Java` · `C` · `C++` · `JavaScript` · `SQL`
+## 🛠️ Tech Stack
 
 **AI / ML**
-`YOLOv8` · `ArcFace` · `LSTM` · `GANs` · `Autoencoders` · `TensorFlow` · `PyTorch`
+`Python` `PyTorch` `TensorFlow` `OpenCV` `YOLOv8` `LLMs` `RAG` `Google Gemini` `GANs` `LSTM` `NLP` `Transfer Learning`
 
-**Web & Application Development**
-`HTML` · `CSS` · `React` · `Node.js` · `MERN`
+**Full-Stack**
+`MERN` `React` `Node.js` `Django` `HTML` `CSS` `JavaScript`
 
-**Data**
-`NumPy` · `Pandas` · `Matplotlib` · `MySQL` · `MongoDB`
+**Data & Cloud**
+`MySQL` `MongoDB` `Version Control` `SDLC`
 
-## Education
+---
 
-**Nandha Engineering College** · 2022–2026  
-GPA: **8.4**
+## 🚀 Featured Projects
 
-## Selected Work
+### 🎨 Kolam Generation Seed
+> Generative AI project that recreates traditional Kolam patterns using deep learning — combining GANs and Autoencoders to learn and generate stroke patterns.
 
-- Published research on **real-time surveillance and threat detection using a multi-modal deep learning framework**.
-- Worked on AI-powered surveillance, generative AI, and intelligent application projects.
-- Participated in national-level hackathon and engineering projects.
+[![Repo](https://img.shields.io/badge/GitHub-Kolam--generation--seed-7C3AED?style=flat-square&logo=github)](https://github.com/Hanushree29/Kolam-generation-seed-)
 
-## Connect
+---
 
-- 💻 GitHub: https://github.com/Hanushree29
-- 💼 LinkedIn: https://www.linkedin.com/in/hanushree-m/
+### 🛡️ SRI — Sentinel Reconnaissance Intelligence
+> AI-powered surveillance and reconnaissance intelligence system using YOLOv8, NLP, and Computer Vision for national security applications.
+
+[![Repo](https://img.shields.io/badge/GitHub-SRI-7C3AED?style=flat-square&logo=github)](https://github.com/Hanushree29/SHREE)
+
+---
+
+### 🏙️ Smart City — Adaptive Traffic Optimization
+> AI-driven intelligent agent for crowd safety, mobility, and inclusive assistance in real time.
+
+[![Repo](https://img.shields.io/badge/GitHub-SHREE-7C3AED?style=flat-square&logo=github)](https://github.com/Hanushree29/SHREE)
+
+---
+
+### 🤖 Mathchatbot
+> Generative AI math assistant powered by LLMs, providing step-by-step mathematical reasoning and solutions.
+
+[![Repo](https://img.shields.io/badge/GitHub-Mathchatbot-7C3AED?style=flat-square&logo=github)](https://github.com/Hanushree29/Mathchatbot)
+
+---
+
+## 💼 Experience
+
+| Role | Organisation |
+|---|---|
+| Full Stack Engineer | Nandha InfoTech |
+| Artificial Intelligence Intern | Infosys Springboard |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanushree29&show_icons=true&theme=radical&hide_border=true&bg_color=0D0120&title_color=E879F9&text_color=F5F0FF&icon_color=A855F7&ring_color=C026D3&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanushree29&layout=compact&hide_border=true&bg_color=0D0120&title_color=E879F9&text_color=F5F0FF&border_radius=12" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hanushree29&hide_border=true&background=0D0120&ring=C026D3&fire=E879F9&currStreakLabel=F5F0FF&sideLabels=A78BCA&currStreakNum=F5F0FF&sideNums=F5F0FF&dates=A78BCA&border_radius=12"/>
+</p>
+
+---
+
+## 🔗 Connect
+
+<p>
+  <a href="https://github.com/Hanushree29"><img src="https://img.shields.io/badge/GitHub-Hanushree29-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hanushree-m/"><img src="https://img.shields.io/badge/LinkedIn-hanushree--m-C026D3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Build intelligently. Learn continuously. Ship meaningful technology.</i>
+  <code>const betterTomorrow = () => { return learn() + build() + impact(); }</code>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hanushree29&label=Profile+views&color=7C3AED&style=flat-square" />
+</p>
