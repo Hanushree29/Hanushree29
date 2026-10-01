@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Hanushree M — AI &amp; Full-Stack Engineer profile banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light(3).svg">
+  <img src="./assets/dark.svg" alt="Hanushree M — AI &amp; Full-Stack Engineer profile banner" width="100%">
 </picture>
 
 <br/>
